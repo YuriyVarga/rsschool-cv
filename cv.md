@@ -22,6 +22,6 @@ basics HTML
 basics CSS
 
 ### Languages:
-Russian - native speaker
+Russian - Fluet
 
-Ukrainian - native speaker
+Ukrainian - Fluet
