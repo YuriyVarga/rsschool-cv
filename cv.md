@@ -17,11 +17,11 @@ The main thing is not to stand i one place, but to delop and move forward all th
 Ukraine state university of railway transport
 
 ### Skills:
-basics HTML
-
-basics CSS
+Not yet available
 
 ### Languages:
 Russian - Fluet
 
 Ukrainian - Fluet
+
+English - A0
